@@ -1,3 +1,14 @@
+/* Base styles */
+body {
+    font-family: DM Serif Display, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: black;
+}
+
+
+
 /* reset */
 * {
     margin: 0;
@@ -17,10 +28,15 @@ body {
 
     /* placeholder: use your own font, size and color */
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 18;
+    font-size: 18px;
     line-height: 1.5;
     color: black;
 }
+
+
+
+
+
 
 /* heading styling */
 .dm-serif-display-regular {
