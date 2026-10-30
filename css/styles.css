@@ -87,4 +87,8 @@ article {
     grid-column:span 4;
 }
 
-/* footer
+/* footer */
+footer {
+    grid-column: 1/ 13;
+    text-align: center;
+}
